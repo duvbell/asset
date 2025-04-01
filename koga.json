@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "image": "ipfs://QmYXvEo7VnLcmrJRxPoqn4i6ucrVTtMEZyySPZDZDouwxM",
+  "external_url": "https://portal.story.foundation/user/0xf6AEFa318B7F6A9b8E6Cf8d746B4148762d44816",
+  "animation_url": "ipfs://QmYXvEo7VnLcmrJRxPoqn4i6ucrVTtMEZyySPZDZDouwxM",
+  "attributes": [],
+  "mediaUrl": "https://ipfs.io/ipfs/QmYXvEo7VnLcmrJRxPoqn4i6ucrVTtMEZyySPZDZDouwxM",
+  "mediaHash": "0xb144d44136003d464ed963962b4436eb635fdd98913716db548fa78ba3077cb0",
+  "mediaType": "image/png",
+  "creators": [
+    {
+      "name": "kien6034",
+      "address": "0xf6AEFa318B7F6A9b8E6Cf8d746B4148762d44816"
+    }
+  ]
+}
